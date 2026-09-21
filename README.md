@@ -1,3 +1,9 @@
+# skewt-chart
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/heavyai/skewt-chart/blob/main/LICENSE.txt)
+[![Security](https://img.shields.io/badge/Security-Report%20a%20Vulnerability-red.svg)](https://github.com/heavyai/skewt-chart/blob/main/SECURITY.md)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?logo=github)](https://github.com/orgs/heavyai/discussions)
+
+
 Try it out at https://heavyai.github.io/skewt-chart
 
 This is a port of https://github.com/dfelix/skewt-js, which is technically unlicensed.
